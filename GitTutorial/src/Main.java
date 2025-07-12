@@ -6,7 +6,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         Change change=new Change();
 
-        System.out.println("Version2");
+        System.out.println("Version3");
         System.out.println(change.str);
 
 
